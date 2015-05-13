@@ -1,0 +1,9 @@
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\SEIP Training\HomePractice\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
